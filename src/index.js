@@ -5,9 +5,6 @@ import 'bulma/css/bulma.css';
 import Snowflake from './Snowflake';
 import '/style.css';
 
-
-
-
 class Snow extends React.Component {
   render() {
     return(
@@ -18,7 +15,6 @@ class Snow extends React.Component {
     );
   }
 }
-
 
 ReactDOM.render(
   <BrowserRouter>
