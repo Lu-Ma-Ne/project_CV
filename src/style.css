@@ -45,7 +45,7 @@ h2 {
 }
 
 .jumbotron {
-    background-image: url("../images/computer.jpg");
+    background-image: url(".../images/computer.jpg");
     background-repeat: no-repeat;
     background-color: transparent !important; 
     background-size: cover;
