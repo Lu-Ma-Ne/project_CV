@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import {BrowserRouter, Route, Link} from 'react-router-dom';
 import 'bulma/css/bulma.css';
 import Snowflake from './Snowflake';
-import '/style.css';
+import Jumbotron from 'react-bootstrap/Jumbotron'
 
 class Snow extends React.Component {
   render() {
